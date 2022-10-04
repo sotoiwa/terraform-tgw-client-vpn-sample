@@ -1,5 +1,5 @@
 locals {
   managed_by = "terraform"
-  repo       = "kyousei"
+  repo       = "terraform-tgw-client-vpn-sample"
   env        = "shared"
 }
