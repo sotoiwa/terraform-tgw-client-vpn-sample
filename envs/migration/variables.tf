@@ -1,5 +1,5 @@
 variable "app_name" {
-  default = "kyousei-migration"
+  default = "tgw-sample-migration"
 }
 
 variable "db_master_username" {}

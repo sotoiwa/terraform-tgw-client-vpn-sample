@@ -1,5 +1,5 @@
 variable "app_name" {
-  default = "kyousei-dev"
+  default = "tgw-sample-dev"
 }
 
 # variable "db_master_username" {}

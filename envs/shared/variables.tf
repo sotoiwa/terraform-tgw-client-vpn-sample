@@ -1,5 +1,5 @@
 variable "app_name" {
-  default = "kyousei-shared"
+  default = "tgw-sample-shared"
 }
 
 variable "vpc_migration_id" {}
